@@ -1,13 +1,13 @@
 ### Hello World 👋
 
-Hi, I'm Chrissi, a student, software developer and AI enthusiast. I also love dealing with data and problems and finding solutions. ❤✌
+Hi, I'm Chrissi, a student, software developer, electrical engineer and AI enthusiast. I also love dealing with data and problems and finding solutions. ❤✌
 
 **Personal things:**
 - 🌱 I'm currently studying for a Master of Science in Artificial Intelligence
 - 👯 I'm looking for collaboration on all interesting topics in the field of data science
 - 💬 Ask me anything, I'll be happy to answer it
-- 📫 [How to reach me](mailto:christopherneeb98@gmail.com)
-- ⚡ Check out my recent [Website](https://chrissi2802.github.io)
+- 📫 [How to reach me](mailto:christopherneeb98@gmail.com "Email")
+- ⚡ Check out my recent [Website](https://chrissi2802.github.io "Website")
 
 
 **Languages and Tools:**
